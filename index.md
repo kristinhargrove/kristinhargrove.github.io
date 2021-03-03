@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+Full Stack Projects
 
 [Leave](https://powerful-brushlands-03027.herokuapp.com/)
-<img src="images/leave.phn"/>
+<img src="images/leave.png"/>
 
 ---
 [Are You Mad?](https://areyoumad.netlify.app/)
