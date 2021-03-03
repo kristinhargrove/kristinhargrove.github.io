@@ -4,25 +4,30 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Leave](https://powerful-brushlands-03027.herokuapp.com/)
+<img src="images/leave.phn"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Are You Mad?](https://areyoumad.netlify.app/)
+<img src="images/areyoumad.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Books In Space](https://books-in-space.herokuapp.com/)
+<img src="images/booksinspace.png"/>
+
+---
+
+[Drums in Space](https://www.drumsinspace.com/)
+<img src="images/drumsinspace.png"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Leave](https://powerful-brushlands-03027.herokuapp.com/)
+- [Are You Mad?](https://areyoumad.netlify.app/)
+- [Books in Space](https://books-in-space.herokuapp.com/)
+- [Drums in Space](https://www.drumsinspace.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
