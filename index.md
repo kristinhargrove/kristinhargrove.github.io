@@ -2,10 +2,10 @@
 
 ---
 
-Full Stack Projects
+### Full Stack Projects
 
 [Leave](https://powerful-brushlands-03027.herokuapp.com/)
-<img src="images/leave.png"/>
+<img src="images/leave.phn"/>
 
 ---
 [Are You Mad?](https://areyoumad.netlify.app/)
@@ -22,13 +22,13 @@ Full Stack Projects
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2
 
-- [Leave](https://powerful-brushlands-03027.herokuapp.com/)
-- [Are You Mad?](https://areyoumad.netlify.app/)
-- [Books in Space](https://books-in-space.herokuapp.com/)
-- [Drums in Space](https://www.drumsinspace.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
 
 ---
 
