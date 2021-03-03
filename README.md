@@ -3,6 +3,7 @@
 ### Introduction
 
 Full stack web developer and Digital Crafts bootcamp graduate.
+Check out my other projects above!
 
 Created with <a href='https://github.com/evanca/quick-portfolio'>evanca/quick-portfolio</a>
 <img src="images/demo.gif?raw=true"/>
